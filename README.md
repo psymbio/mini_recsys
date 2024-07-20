@@ -4,7 +4,8 @@ Minified recommendation system - with warm start.
 
 ## Data Collection
 1. Update the food_form.xlsx with more food items, user details and food features 
-    ```Food: Create features like cuisine type (Italian, Chinese, Mexican, Indian, American, etc.), tastes (sweet, sour, spicy, bitter, etc.), cost, nutritional information (calories, protein, carbohydrates, fats, fiber, sugars, sodium, vitamins and minerals), allergens (e.g., nuts, dairy, gluten), dietary preferences (vegetarian, vegan, gluten-free, halal, kosher, low-carb, low-fat), serving size (small, medium, large).
+    ```
+    Food: Create features like cuisine type (Italian, Chinese, Mexican, Indian, American, etc.), tastes (sweet, sour, spicy, bitter, etc.), cost, nutritional information (calories, protein, carbohydrates, fats, fiber, sugars, sodium, vitamins and minerals), allergens (e.g., nuts, dairy, gluten), dietary preferences (vegetarian, vegan, gluten-free, halal, kosher, low-carb, low-fat), serving size (small, medium, large).
     Users: Create features like demographic information (age, gender, are they vegetarian?).
     Add some more useful features to this and finalize this with the team.
     ```
