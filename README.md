@@ -4,22 +4,17 @@ Minified recommendation system - with warm start.
 
 ## Data Collection
 1. Update the food_form.xlsx with more food items, user details and food features 
-
-Food: Create features like cuisine type (Italian, Chinese, Mexican, Indian, American, etc.), tastes (sweet, sour, spicy, bitter, etc.), cost, nutritional information (calories, protein, carbohydrates, fats, fiber, sugars, sodium, vitamins and minerals), allergens (e.g., nuts, dairy, gluten), dietary preferences (vegetarian, vegan, gluten-free, halal, kosher, low-carb, low-fat), serving size (small, medium, large).
-
-Users: Create features like demographic information (age, gender, are they vegetarian?).
-
-Add some more useful features to this and finalize this with the team.
-
-Assigned to: [@psymbio,@someoneelse]
-Status: [NOTDONE]
-Due for: [22/7/24]
-
-2. Create the google form for this. It's easy to copy-paste from the excel to create multiple-choice checkboxes. Share the edit link with everyone. Discuss and finalize the form and send it out to people to collect the data.
-
-Assigned to: [@someoneelse]
-Status: [NOTDONE]
-Due for: [22/7/24]
+    ```Food: Create features like cuisine type (Italian, Chinese, Mexican, Indian, American, etc.), tastes (sweet, sour, spicy, bitter, etc.), cost, nutritional information (calories, protein, carbohydrates, fats, fiber, sugars, sodium, vitamins and minerals), allergens (e.g., nuts, dairy, gluten), dietary preferences (vegetarian, vegan, gluten-free, halal, kosher, low-carb, low-fat), serving size (small, medium, large).
+    Users: Create features like demographic information (age, gender, are they vegetarian?).
+    Add some more useful features to this and finalize this with the team.
+    ```
+    Assigned to: [@psymbio,@someoneelse]
+    Status: [NOTDONE]
+    Due: [22/7/24]
+2. Create the Google form for this. It's easy to copy-paste from Excel to create multiple-choice checkboxes. Share the edit link with everyone. Discuss and finalize the form and send it out to people to collect the data.
+    Assigned to: [@someoneelse]
+    Status: [NOTDONE]
+    Due: [22/7/24]
 
 ## Recsys algorithm
 
@@ -31,7 +26,7 @@ Due for: [22/7/24]
 
 Assigned to: [@psymbio]
 Status: [BLOCKED - need real data to train]
-Due for: [27/7/24]
+Due: [27/7/24]
 
 ## Backend
 
@@ -40,7 +35,7 @@ Due for: [27/7/24]
 
 Assigned to: [@psymbio]
 Status: [NOTDONE]
-Due for: [30/7/24]
+Due: [30/7/24]
 
 ## Frontend
 
@@ -63,5 +58,4 @@ Due for: [30/7/24]
 
 Assigned to: [@everyone]
 Status: [NOTDONE]
-Due for: [27/7/24]
-
+Due: [27/7/24]
